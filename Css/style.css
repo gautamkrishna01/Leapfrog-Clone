@@ -58,7 +58,11 @@ header
     color: white;
     cursor: pointer;
     margin-left: 10em;
+<<<<<<< HEAD
      
+=======
+    margin-top: -8px;
+>>>>>>> d5fbc6297e5b7e892fc0200118e428bb7b5936c6
 }
 
 /* end of heading  */
