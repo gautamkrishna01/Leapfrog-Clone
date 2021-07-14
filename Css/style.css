@@ -42,7 +42,7 @@ header
     text-decoration: none;
     font-size: 20px;
     font-weight: bold;
-    
+    color:rgb(88, 88, 88);
 }
 .right-nav ul  :hover{
     color: rgb(33, 248, 33);
@@ -58,7 +58,7 @@ header
     color: white;
     cursor: pointer;
     margin-left: 10em;
-    
+     
 }
 
 /* end of heading  */

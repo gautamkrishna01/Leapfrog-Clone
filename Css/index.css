@@ -1,0 +1,175 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*start na section */
+header
+{
+    height: 100px;
+    width: 100%;
+   /* background-color: wheat; */
+}
+.flex-nav
+{
+    position: fixed;
+    
+}
+    
+.logo
+{
+    height: 25px;
+    width: 250px;
+    padding-left: 45px;
+    padding-top: 20px;
+
+}
+.right-nav
+{
+    display: flex;
+    justify-content: space-around;
+     margin-left: 300px;
+     margin-top: 20px;
+   
+
+     
+}
+.right-nav ul a
+{
+   
+    padding-left: 40px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color:rgb(88, 88, 88);
+}
+
+    .right-nav ul :hover{
+    color: rgb(33, 248, 33);
+}
+.btn
+{
+    width: 150px;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 20px;
+    background-color: rgb(1, 1, 14);
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    margin-left: 10em;
+    
+}
+
+/* start the innovate section  */
+.flex-innovate
+{
+    height: 40em;
+    background-color:#102b7b;;
+    width: 100%;
+    opacity: 1;
+}
+.innovate
+{
+    font-size: 60px;
+    font-family: sans-serif;
+    color: #ffffff;
+    letter-spacing: 1px;
+    margin-left: 55px;
+    padding-top: 150px;
+}
+
+.innovate2
+{
+    font-size: 60px;
+    font-family: sans-serif;
+    color: #16e727;
+    letter-spacing: 1px;
+    margin-left: 55px;
+    
+}
+.row
+{
+    height: 10px;
+    width: 180px;
+    background-color: #16e727;
+    margin-left: 60px;
+}
+.para2
+{
+    margin-left: 55px;
+    margin-top: 40px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+.btn-2
+{
+    margin-left: 60px;
+    margin-top: 40px;
+    width: 140px;
+    font-size: 15px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: rgb(24, 202, 24);
+    color: #ffffff;
+}
+.btn-2:hover
+{
+ background-color: rgb(107, 226, 107);
+}
+.flex-botton
+{
+    margin-left: 16em;
+    position:relative;
+    bottom: 90px;
+    margin-top: 50px;
+    
+    
+}
+
+.para3
+{
+    font-size: 20px;
+    color: white;
+    
+}
+.learn
+{
+ color: rgb(22, 219, 22);
+}
+/* end of innovate section  */
+
+/* start to  Md section  */
+.flex-md
+{
+    height: 20em;
+    width: 100%;
+    background-color:#ffffff
+   
+
+}
+.para4
+{
+    margin-left: 15em;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 1px;
+    margin-top: 4em;
+    color: rgb(24, 19, 19);
+    font-weight: bold;
+}
+.image
+{
+    margin-left: 40em;
+    margin-top: 50px;
+}
+.bio
+{
+    margin-left: 38em;
+}
+
+
+
+/* end start to  Md section  */
